@@ -12,7 +12,6 @@ public class Main {
         observable.addObserver(observer2);
 
         observable.setState(10);
-
         observable.setState(20);
 
 
