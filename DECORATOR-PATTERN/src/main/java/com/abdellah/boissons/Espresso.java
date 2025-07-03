@@ -1,5 +1,6 @@
 package com.abdellah.boissons;
 
+// Composant concret
 public class Espresso extends Boisson{
 
     public Espresso() {

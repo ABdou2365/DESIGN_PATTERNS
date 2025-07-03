@@ -2,6 +2,7 @@ package com.abdellah.Decorators;
 
 import com.abdellah.boissons.Boisson;
 
+// Classe décoratrice abstraite
 public abstract class DecorateurBoisson extends Boisson {
 
     Boisson boisson;

@@ -1,5 +1,6 @@
 package com.abdellah.boissons;
 
+// Composant de base
 public abstract class Boisson {
 
     protected String description;

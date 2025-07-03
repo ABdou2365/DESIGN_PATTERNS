@@ -1,5 +1,6 @@
 package com.abdellah.boissons;
 
+// Composant concret
 public class Moca extends Boisson {
 
     public Moca() {

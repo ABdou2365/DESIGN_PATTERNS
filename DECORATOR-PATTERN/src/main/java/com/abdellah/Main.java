@@ -5,6 +5,7 @@ import com.abdellah.Decorators.ChocolatDecorator;
 import com.abdellah.boissons.Boisson;
 import com.abdellah.boissons.Espresso;
 
+// Utilisation
 public class Main {
     public static void main(String[] args) {
         Boisson boisson = new Espresso();

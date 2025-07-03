@@ -2,6 +2,7 @@ package com.abdellah.Decorators;
 
 import com.abdellah.boissons.Boisson;
 
+// Décorateur concret : ajoute du Chocolat
 public class ChocolatDecorator extends DecorateurBoisson {
 
 
